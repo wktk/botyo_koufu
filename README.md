@@ -7,7 +7,7 @@
 
 ## データ形式
 
-- `/data/court-id.csv`  
+- `/data/court-no.csv`  
   `裁判所番号,裁判所名`
 
 - `/data/裁判所番号/年-月-日.csv`  
